@@ -10,7 +10,7 @@ Python Tool can crack hash and know it's type automatically just take the hash a
 - blake2b
 - blacke2c
 
->> you need to give the tool the hash and teh path of the word list .
+>> you need to give the tool the hash and the path of the word list .
 
 ### Example :
 
@@ -23,9 +23,9 @@ Python Tool can crack hash and know it's type automatically just take the hash a
 
 ### to run this tool you need to install some python libraries 
 
-> run this command in you terminal
+## run this command in you terminal
 
-#### The hashlib library is part of Python's standard library, so you do not need to install it using pip but if you don't have this is the command.
+#### The hashlib library is part of Python's standard library, so you do not need to install it using pip but if you don't have it , this is the command.
 
  ```
 pip install hashlib
@@ -48,7 +48,7 @@ git clone https://github.com/Youssef530245/YM-Crack.git
 python3 crack.py
 ```
 
->> this an image show the Tool while it running and the  result.
+### this an image show the Tool while it running and the  result.
 
 ![YM-Crack](https://github.com/Youssef530245/YM-Crack/blob/main/crack.png?raw=true "crack.png")
 
